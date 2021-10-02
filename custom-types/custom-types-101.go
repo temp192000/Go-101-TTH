@@ -46,7 +46,4 @@ func main(){
 	// if minutes > hours {
 	// 	fmt.Println("Yes, this is not invalid!")
 	// }
-
-	// fmt.Println("----------  ----------")
-	// fmt.Println()
 }
